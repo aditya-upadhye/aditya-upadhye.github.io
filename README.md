@@ -1,3 +1,3 @@
 # Head over to my Portfolio 
 
-[Cick Here to have a look](https://aditya-upadhye.github.io)
+[Click Here to have a look](https://aditya-upadhye.github.io)
